@@ -1,2 +1,5 @@
 Hola, mi nombre es Juan David Trujillo
 y tengo 16 años, naci en colombia y estudio en platzi
+
+
+repasando, subida de codigo a github desde git con la terminal
